@@ -1,0 +1,6 @@
+.containerMain {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 400px;
+  height: 400px;
+}

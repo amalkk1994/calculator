@@ -1,0 +1,15 @@
+.containerMain {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 300px;
+  height: 300px;
+  justify-items: center;
+  align-items: center;
+}
+
+.result {
+  height: 60px;
+  width: 300px;
+  background-color: turquoise;
+  margin-bottom: 10px;
+}
